@@ -1,8 +1,3 @@
 Angie is my daughter.
-<<<<<<< HEAD
 She is five years old.
 her eyes are pretty.
-=======
-She is three years old.
-She has brown eyes.
->>>>>>> experimental
